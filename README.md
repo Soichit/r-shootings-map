@@ -1,1 +1,1 @@
-# Mass Shootings Data Visualization using R
+# Mass Shootings Data Visualizations using R
